@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+
+.box {
+    border: 2px solid black;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+
+.box h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.box p {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    color: black;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+
+.image-section h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.dog-img {
+    width: 350px;
+    border: 1px solid #ccc;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.more-imgs {
+    font-size: 14px;
+    text-decoration: underline;
+    color: black;
+}
+
+
+.trivia-section h2 {
+    font-size: 22px;
+}
+
+.trivia-section ol {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.6;
+}
